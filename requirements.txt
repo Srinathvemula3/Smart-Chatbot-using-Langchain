@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain>=0.1.350
+langchain-google-genai
+faiss-cpu
+numpy
+unstructured
+pypdf
+python-docx
+fpdf
+duckduckgo-search
+nest-asyncio
+regex
